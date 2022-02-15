@@ -57,8 +57,13 @@ a {
   color: #11999e;
 }
 
+/* .skills {
+  align-items: center;
+  display: flex;
+} */
+
 .skill-row {
-  width: 50%;
+  width: 20%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -101,6 +106,7 @@ a {
   width: 40%;
   margin: 40px auto 60px;
 }
+
 
 .btn {
   background: #11999E;
