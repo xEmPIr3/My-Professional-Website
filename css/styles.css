@@ -30,7 +30,7 @@ h3 {
 .top-container {
   background-color: hsl(169, 64%, 94%);
   position: relative;
-  padding-top: 100px;
+  padding-top: 480px;
 }
 
 .middle-container {
@@ -55,6 +55,13 @@ hr {
 
 a {
   color: #11999e;
+  font-family: 'montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
 }
 
 /* .skills {
@@ -105,6 +112,12 @@ a {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.Copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 
